@@ -13,5 +13,5 @@ func main() {
 	fmt.Printf("%v\n", x)
 
 	y = int(x)
-	fmt.Printf("%v %T", y, y)
+	fmt.Printf("%v %T\n", y, y)
 }

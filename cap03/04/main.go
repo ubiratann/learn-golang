@@ -8,7 +8,7 @@ var x ubiratan
 
 func main() {
 
-	fmt.Printf("valor = %v\ntipo = %T\n", x, x)
+	fmt.Printf("value = %v\ntype = %T\n", x, x)
 	x = 42
 	fmt.Println(x)
 }

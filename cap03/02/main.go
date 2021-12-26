@@ -7,5 +7,5 @@ var y string
 var z bool
 
 func main() {
-	fmt.Printf("%v\n%v\n%v ", x, y, z)
+	fmt.Printf("%v\n%v\n%v\n", x, y, z)
 }
