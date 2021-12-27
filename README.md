@@ -5,3 +5,4 @@
 1. Chapter 03 - [Varaibles, values and types](cap03)
 1. Chapter 05 - [Programing fundamentals](cap05)
 1. Chapter 07 - [Control flow](cap07)
+1. Chapter 09 - [Data agroupment](cap09)
