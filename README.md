@@ -1,4 +1,7 @@
-# Golang course from [this link](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
+# Golang course
+
+This repository is dedicated to save all the exercices from the course, "Aprenda Go 🇧🇷", made by Ellen Korbes ([@ellenkorbes](https://github.com/ellenkorbes)).
+You can access the complete course using [this link](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg), it's free :)
 
 ## Exercises chapters
 
