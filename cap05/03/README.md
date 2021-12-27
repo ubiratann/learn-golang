@@ -3,7 +3,7 @@ Exercise description:
 1. Create constants typeds and untypeds
 2. Show those constants values
 
-> Code :
+> Code:
 ```go
 package main
 

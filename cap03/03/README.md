@@ -10,7 +10,7 @@ Exercise description:
     - Use fmt.Sprintf to assign all these values to a single variable. Make this string type assignment to a variable named "s" using the short declaration operator.
     - Show the variable "s" value.
     
-> Code :
+> Code:
 ```go
 package main
 

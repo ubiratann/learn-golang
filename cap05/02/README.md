@@ -9,7 +9,7 @@ Exercise description:
 - \<
 - \>
 
-> Code :
+> Code:
 ```go
 import "fmt"
 

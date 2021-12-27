@@ -11,7 +11,7 @@ Exercise description:
     1. Multiple prints declarations
 
 
-> Code :
+> Code:
 ```go
 package main
 

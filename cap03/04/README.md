@@ -11,7 +11,7 @@ Create a variable for this type, with the identifier "x", using the var keyword.
 
 
 
-> Code :
+> Code:
 ```go
 package main
 

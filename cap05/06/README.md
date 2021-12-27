@@ -3,7 +3,7 @@ Exercise description:
 1. Using `iota`, create 4 constants that these values should be the 4 next years.
 1. Show these values.
 
-> Code :
+> Code:
 ```go
 package main
 

@@ -16,7 +16,7 @@ Exercise description:
         - Show the type of "y"
 
 
-> Code :
+> Code:
 ```go
 package main
 

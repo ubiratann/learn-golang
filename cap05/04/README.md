@@ -6,7 +6,7 @@ Exercise description:
 - Shift the bits of this variable 1 to the left, and assign the result to another variable
 - Show this other variable in decimal, binary and hexadecimal
 
-> Code :
+> Code:
 ```go
 import "fmt"
 

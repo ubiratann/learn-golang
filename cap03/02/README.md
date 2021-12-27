@@ -7,7 +7,7 @@ Exercise description:
 
     Then show these values on main function.
 
-> Code :
+> Code:
 ```go
 package main
 

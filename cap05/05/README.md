@@ -3,7 +3,7 @@ Exercise description:
 1. Create a variable of string type using a raw string literal.
 2. Show this string.
 
-> Code :
+> Code:
 ```go
 package main
 
