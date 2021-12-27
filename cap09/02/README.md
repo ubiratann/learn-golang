@@ -12,11 +12,7 @@ package main
 import "fmt"
 
 func main() {
-	slice := []int{}
-
-	slice = append(slice, 1)
-	slice = append(slice, 2)
-	slice = append(slice, 3)
+	slice := []int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
 
 	for _, value := range slice {
 		fmt.Println(value)
@@ -31,5 +27,7 @@ func main() {
 1
 2
 3
+...
+10
 []int
 ```
