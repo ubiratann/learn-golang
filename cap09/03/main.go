@@ -9,6 +9,6 @@ func main() {
 	fmt.Println("5º - last:", slice[4:])
 	fmt.Println("2º - 7º:", slice[1:7])
 	fmt.Println("3º - 9º:", slice[2:9])
-	fmt.Println("last but one item:", slice[len(slice)-2:len(slice)-1])
+	fmt.Println("penultimate:", slice[len(slice)-2:len(slice)-1])
 
 }
