@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	esporteFavorito := "swimming"
+	favouriteSport := "swimming"
 
-	switch esporteFavorito {
+	switch favouriteSport {
 	case "basketball":
 		fmt.Println("Your favourite sport is basketball")
 	case "soccer":

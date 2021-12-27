@@ -1,6 +1,6 @@
 Exercise description:
 
-1. Create a program that uses the switch statement, where the switch statement is a string variable with the identifier "esporteFavorito".
+1. Create a program that uses the switch statement, where the switch statement is a string variable with the identifier "favouriteSport".
 
 
 > Code:
@@ -10,9 +10,9 @@ package main
 import "fmt"
 
 func main() {
-	esporteFavorito := "swimming"
+	favouriteSport := "swimming"
 
-	switch esporteFavorito {
+	switch favouriteSport {
 	case "basketball":
 		fmt.Println("Your favourite sport is basketball")
 	case "soccer":
