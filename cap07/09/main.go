@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	esporteFavorito := "soccer"
+	esporteFavorito := "swimming"
 
 	switch esporteFavorito {
 	case "basketball":
