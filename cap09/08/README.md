@@ -3,7 +3,7 @@ Exercise description:
 1. Create a `map` with `string` key and `[]string` value:
 	- the keys could have names using the surname_name format
 	- the values are favourite hobbies of the people
-1. Show all this values and indexes
+1. Show all the values and indexes
 
 > Code:
 ```go
