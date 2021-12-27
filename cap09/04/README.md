@@ -1,11 +1,40 @@
 Exercise description:
 
+1. Starting with the following slice:
+	- `x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}`
+1. Append to `x` the 52 value
+1. Append 53, 54 and 55 using only one declaration
+1. Show the slice
+1. Append the following slice:
+	- `y := []int{56, 57, 58, 59, 60}`
+1. Show the slice
+
 > Code:
 ```go
+package main
+
+import "fmt"
+
+func main() {
+	x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
+
+	x = append(x, 52)
+	x = append(x, 53, 54, 55)
+
+	fmt.Println(x)
+
+	y := []int{56, 57, 58, 59, 60}
+
+	x = append(x, y...)
+
+	fmt.Println(x)
+
+}
 
 ```
 
 > Output:
 ```console
-
+[42 43 44 45 46 47 48 49 50 51 52 53 54 55]
+[42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60]
 ```
