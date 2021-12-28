@@ -12,3 +12,4 @@ You can access the complete course using [this link](https://www.youtube.com/pla
 1. Chapter 11 - [Structs](chap11)
 1. Chapter 13 - [Functions](chap13)
 1. Chapter 15 - [Pointers](chap15)
+1. Chapter 20 - [GoRoutines, Paralelism, Concurrence](chap15)
