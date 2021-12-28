@@ -9,5 +9,5 @@ You can access the complete course using [this link](https://www.youtube.com/pla
 1. Chapter 05 - [Programing fundamentals](cap05)
 1. Chapter 07 - [Control flow](cap07)
 1. Chapter 09 - [Data agroupment](cap09)
-1. Chapter 11 - [Data agroupment](cap11)
+1. Chapter 11 - [Structs](cap11)
 1. Chapter 13 - [Functions](cap13)
