@@ -5,9 +5,9 @@ You can access the complete course using [this link](https://www.youtube.com/pla
 
 ## Exercises chapters
 
-1. Chapter 03 - [Varaibles, values and types](cap03)
-1. Chapter 05 - [Programing fundamentals](cap05)
-1. Chapter 07 - [Control flow](cap07)
-1. Chapter 09 - [Data agroupment](cap09)
-1. Chapter 11 - [Structs](cap11)
-1. Chapter 13 - [Functions](cap13)
+1. Chapter 03 - [Varaibles, values and types](chap03)
+1. Chapter 05 - [Programing fundamentals](chap05)
+1. Chapter 07 - [Control flow](chap07)
+1. Chapter 09 - [Data agroupment](chap09)
+1. Chapter 11 - [Structs](chap11)
+1. Chapter 13 - [Functions](chap13)
