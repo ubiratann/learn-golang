@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
 	func() {
-		fmt.Println("Função anônima")
+		fmt.Println("Anonymous function")
 	}()
 }

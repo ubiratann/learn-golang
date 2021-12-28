@@ -10,7 +10,7 @@ import "fmt"
 
 func main() {
 	func() {
-		fmt.Println("Função anônima")
+		fmt.Println("Anonymous function")
 	}()
 }
 
@@ -18,5 +18,5 @@ func main() {
 
 > Output:
 ```console
-Função anônima
+Anonymous function
 ```
